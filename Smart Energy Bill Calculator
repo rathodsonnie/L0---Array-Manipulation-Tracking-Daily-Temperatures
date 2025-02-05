@@ -1,0 +1,3 @@
+calculateEnergyBill(unitsConsumed){
+if(unitsConsumed <=100){
+ console.log(Cost is 
