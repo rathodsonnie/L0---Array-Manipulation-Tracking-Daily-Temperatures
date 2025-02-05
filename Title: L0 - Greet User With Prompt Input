@@ -1,1 +1,9 @@
+function greetUser(name){
+ console.log("Enter Your name"):
+if(greetUser==name){
+  console.log( "Hello, !", name);
+}else{
+    console.log( "Hello, Guest!", );
+ 
 
+}
